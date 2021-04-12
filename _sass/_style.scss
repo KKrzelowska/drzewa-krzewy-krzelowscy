@@ -35,7 +35,9 @@ footer {
   color: mix($color-text, white, 80%);
   padding-top: 1em;
 }
-
+div {
+  text-align: left;
+}
 img {
   max-width: 100%;
   display: block;
@@ -78,19 +80,18 @@ h6 {
 a {
   transition: background 300ms;
   padding: 0 0.1em;
-  text-decoration: none;
   border-bottom: 1px solid $color-border;
   color: $color-primary;
+  text-decoration: none;
   &:hover {
     color: black !important;
-    background: #fffaf1;
   }
   &:after {
     position: relative;
     top: -0.5em;
     font-size: 0.7em;
     content: "↗";
-    color: #aaaaaa;
+    color: #ccfff5;
   }
   &.internal-link:after,
   &.footnote:after,
@@ -136,11 +137,11 @@ code {
 .invalid-link {
   color: #444444;
   cursor: help;
-  background: #fafafa;
+  background:  #e6ffee;
   padding: 0 0.1em;
 }
 
 .invalid-link-brackets {
-  color: #ccc;
+  color: #d9b3ff;
   cursor: help;
 }
