@@ -20,9 +20,6 @@ permalink: /
 
  | Możliwość zamówienia roślin z dowozem na terenie powiatu zwoleńskiego.
 
- | Zapraszamy do zapoznania się z [[oferta]]
-
- | Oferty pracy [[kariera]]
 
 <img src="/assets/roszlyn6.jpg"/>
 
