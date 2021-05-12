@@ -12,9 +12,9 @@ permalink: /
 
 | **Adres:** Słowackiego 78, 26-700 Zwoleń |
 
-| **Otwarte:** Pn-Sob 8-20 |
+| **Otwarte:** Pn-Sob 8-18 |
 
-| **Telefon:** 603300488 |
+| **Telefon:** 603300488, 695164587 |
 
  🌱
 
